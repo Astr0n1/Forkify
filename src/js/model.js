@@ -98,3 +98,4 @@ export const loadBookmarks = function () {
 export const storeBookmarks = function (bookmarks) {
   localStorage.setItem('bookmarks', JSON.stringify(bookmarks));
 };
+//
