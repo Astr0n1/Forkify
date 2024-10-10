@@ -8,7 +8,6 @@
   "author": "Ayman Hussein",
   "license": "ISC",
   "dependencies": {
-    "core-js": "^3.38.1",
     "fractional": "^1.0.0",
     "regenerator-runtime": "^0.14.1"
   },

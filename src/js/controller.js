@@ -7,8 +7,6 @@ import paginationView from './view/paginationView.js';
 import bookmarksView from './view/bookmarksView.js';
 import getQuery from './view/searchView.js';
 // librariess
-import 'core-js/stable';
-import { async } from 'regenerator-runtime';
 
 module.hot?.accept();
 ///////////////////////////////////////

@@ -1,8 +1,6 @@
 // MVC modules
 import { API_URL, RESULT_PER_PAGE } from './config';
 import { getJSON } from './helpers';
-// libraries
-import { async } from 'regenerator-runtime';
 ///////////////////////////////////////
 
 export const state = {
