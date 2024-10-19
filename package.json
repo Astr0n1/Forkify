@@ -8,6 +8,7 @@
   "author": "Ayman Hussein",
   "license": "ISC",
   "dependencies": {
+    "fraction": "^0.2.0",
     "fractional": "^1.0.0",
     "regenerator-runtime": "^0.14.1"
   },
